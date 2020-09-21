@@ -1,0 +1,16 @@
+address {
+    display: inline;
+}
+
+main p {
+    text-indent: 3ch;
+    margin: 0;
+}
+
+.avatar {
+    width: 5ch;
+}
+
+.salary {
+    display: none;
+}
